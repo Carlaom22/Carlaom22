@@ -1,6 +1,4 @@
-
-
-## <h1 style="font-size: 100;">Buenas 👋 <img src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="50"></h1>
+## Buenas 👋 <img src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="40"></h1>
 
 <h3 align="left">Tou aqui manos:</h3>
 <p align="left">
