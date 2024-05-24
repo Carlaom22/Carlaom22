@@ -1,4 +1,4 @@
-## Buenas 👋  <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhtMHp3ZGp1cWJiY3dsMHM5bHBqa2dpNmczcG5rOTRnbHc0bnpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif">
+## Buenas <img align="right" alt="Coding" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhtMHp3ZGp1cWJiY3dsMHM5bHBqa2dpNmczcG5rOTRnbHc0bnpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif">
 
 <h3 align="left">Tou aqui manos:</h3>
 <p align="left">
@@ -15,3 +15,4 @@
 ## "Olha" as últimas músicas que ouvi.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1178388710)
+
