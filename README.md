@@ -15,5 +15,5 @@ https://github.com/Carlaom22/Carlaom22/blob/main/README.md
 
 ## Spotify Recently Played
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1178388710)](https://open.spotify.com/user/1178388710)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1178388710&count={count})
 
