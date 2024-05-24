@@ -3,6 +3,7 @@
 <img src="Soares, Carlos. 2024..png" alt="Header Image" style="width: 100%;">
 
 <h3 align="left">Buenas👋</h3>
+
 <h4 align="left">Tou aqui manos:</h4>
 <img align="right" src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="250">
 <p align="left">
