@@ -1,6 +1,6 @@
 
 
-## Buenas 👋 <img src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="50">
+## <h1 style="font-size: 3em;">Buenas 👋 <img src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="50"></h1>
 
 <h3 align="left">Tou aqui manos:</h3>
 <p align="left">
@@ -13,4 +13,5 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Carlaom22&theme=aura&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
     </a>
 </div>
+
 
