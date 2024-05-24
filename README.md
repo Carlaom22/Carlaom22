@@ -1,4 +1,4 @@
-## Hi there 👋
+## Buenas 👋
 
 <h3 align="left">Tou aqui manos:</h3>
 <p align="left">
