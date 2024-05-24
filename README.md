@@ -15,9 +15,9 @@ https://github.com/Carlaom22/Carlaom22/blob/main/README.md
 
 ## Spotify Recently Played
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Carlos Miguel Matos Soares)](https://open.spotify.com/user/Carlos Miguel Matos Soares)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1178388710)](https://open.spotify.com/user/1178388710)
 
 ### Link para o perfil do Spotify
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Carlos Miguel Matos Soares)](https://open.spotify.com/user/Carlos Miguel Matos Soares)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1178388710)](https://open.spotify.com/user/1178388710)
 
