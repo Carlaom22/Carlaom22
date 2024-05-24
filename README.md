@@ -1,7 +1,5 @@
 <img src="header.png" width="250">
 
-## Buenas 👋 
-
 <h3 align="left">Tou aqui manos:</h3>
 <img align="right" src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="250">
 <p align="left">
