@@ -2,7 +2,8 @@
 
 <img src="Soares, Carlos. 2024..png" alt="Header Image" style="width: 100%;">
 
-<h3 align="left">Tou aqui manos:</h3>
+<h3 align="left">Buenas👋</h3>
+<h4>Tou aqui manos:</h4>
 <img align="right" src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="250">
 <p align="left">
 <a href="https://twitter.com/RagingEagle_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
