@@ -1,3 +1,5 @@
+<div style="background-color: #000000; color: #ffffff; padding: 20px;">
+
 <img src="Soares, Carlos. 2024..png" alt="Header Image" style="width: 100%;">
 
 <h3 align="left">Tou aqui manos:</h3>
@@ -11,4 +13,6 @@
     <a href="https://git.io/streak-stats" style="margin-right: 20px;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Carlaom22&theme=aura&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
     </a>
+</div>
+
 </div>
