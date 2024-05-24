@@ -1,4 +1,4 @@
-<img src="header.png" alt="Header Image" style="width: 100%;">
+<img src="banner.png" alt="Header Image" style="width: 100%;">
 
 <h3 align="left">Tou aqui manos:</h3>
 <img align="right" src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="250">
