@@ -1,8 +1,6 @@
 
 
-## Buenas 👋 
-
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhtMHp3ZGp1cWJiY3dsMHM5bHBqa2dpNmczcG5rOTRnbHc0bnpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="260">
+## Buenas 👋 <img src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="50">
 
 <h3 align="left">Tou aqui manos:</h3>
 <p align="left">
