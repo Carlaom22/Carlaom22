@@ -1,6 +1,6 @@
 
 
-## Buenas 👋 <img src="" width="50">
+## Buenas 👋 
 
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhtMHp3ZGp1cWJiY3dsMHM5bHBqa2dpNmczcG5rOTRnbHc0bnpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="260">
 
@@ -15,8 +15,4 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Carlaom22&theme=aura&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
     </a>
 </div>
-
-## "Olha" as últimas músicas que ouvi.
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1178388710)
 
