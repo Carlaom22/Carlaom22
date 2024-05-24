@@ -15,9 +15,9 @@
 
 ## Spotify Recently Played
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Carlos Miguel Matos Soares)](https://open.spotify.com/user/SEU_NOME_DE_USUÁRIO_NO_SPOTIFY)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=imCSM)](https://open.spotify.com/user/imCSM)
 
 ### Link para o perfil do Spotify
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Carlos Miguel Matos Soares)](https://open.spotify.com/user/SEU_NOME_DE_USUÁRIO_NO_SPOTIFY)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=imCSM)](https://open.spotify.com/user/imCSM)
 
