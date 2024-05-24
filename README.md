@@ -8,4 +8,4 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Carlaom22&theme=aura&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
-<img align="left" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkwYjVpY2RtYzZyeXVwMTNmc3k4NzM1NW85Z2kxc3Q2dXlqOG90MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hBKE9dqWDXI6ofByg/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkwYjVpY2RtYzZyeXVwMTNmc3k4NzM1NW85Z2kxc3Q2dXlqOG90MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hBKE9dqWDXI6ofByg/giphy.gif">
