@@ -12,3 +12,12 @@
     </a>
     <img align="right" style="position: relative; top: 0;" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkwYjVpY2RtYzZyeXVwMTNmc3k4NzM1NW85Z2kxc3Q2dXlqOG90MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hBKE9dqWDXI6ofByg/giphy.gif">
 </div>
+
+## Spotify Recently Played
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Carlos Miguel Matos Soares)](https://open.spotify.com/user/SEU_NOME_DE_USUÁRIO_NO_SPOTIFY)
+
+### Link para o perfil do Spotify
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Carlos Miguel Matos Soares)](https://open.spotify.com/user/SEU_NOME_DE_USUÁRIO_NO_SPOTIFY)
+
