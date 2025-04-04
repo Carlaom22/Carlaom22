@@ -13,7 +13,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px;">
     <a href="https://git.io/streak-stats" style="margin-right: 20px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Carlaom22&theme=aura&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+        <a href="https://streak-stats.demolab.com/Carlaom22=DenverCoder1"> </a>
     </a>
 </div>
 
