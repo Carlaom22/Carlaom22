@@ -16,7 +16,7 @@ def my_life():
 
 ## 🧠 About Me
 
-- 🎓 MSc Computer Engineering @ Universidade de Coimbra  
+- 🎓 MSc Software Engineering @ Universidade de Coimbra + BSc in Computer Engineering (doing it)
 - 👨‍💻 Backend enthusiast, bug whisperer, and CLI loyalist  
 - 🎭 I write clean code... until deadlines hit  
 - 🛑 Experienced in building systems that don’t explode (most of the time)
@@ -33,8 +33,6 @@ def my_life():
 
 | Project              | Description                                      | Status       |
 |----------------------|--------------------------------------------------|--------------|
-| `QCS_Assignment1`    | Cruise Control + Camera Detection with flair     | ✅ Working... miraculously |
-| `LatexResume`        | My CV, more beautiful than my code               | ✅ Impresses humans |
 | `404_project`        | I swear this was working yesterday               | ⚠️ Under evaluation |
 
 ---
@@ -58,7 +56,7 @@ def my_life():
 
 ## 🛸 Reach Out (I won’t ghost you... probably)
 
-- 📫 uc2020230124@student.uc.pt
+- 📫 cmmsoares@sapo.pt
 - 🧠 Telepathy module in progress
 - 🐍 Found on Stack Overflow asking why my own code broke
 
