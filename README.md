@@ -1,20 +1,70 @@
-<div style="background-color: #000000; color: #ffffff; padding: 20px;">
+# 👋 Hey there, I’m Carlos Soares — aka Carlaom22
 
-<img src="Soares, Carlos. 2024..png" alt="Header Image" style="width: 100%;">
+> “Putting the ‘fun’ in function and the ‘why’ in `while True:`.”
 
-<h3 align="left">Buenas👋</h3>
+```python
+def my_life():
+    while True:
+        try:
+            code()
+        except BurnoutError:
+            coffee()
+            meme()
+```
 
-<h4 align="left">Tou aqui manos:</h4>
-<img align="right" src="https://cultofthepartyparrot.com/parrots/hd/HackerParrot.gif" width="250">
-<p align="left">
-<a href="https://twitter.com/RagingEagle_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/carlosmsoares1904/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
+---
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px;">
-    <a href="https://git.io/streak-stats" style="margin-right: 20px;">
-        <a href="https://streak-stats.demolab.com/Carlaom22=DenverCoder1"> </a>
-    </a>
-</div>
+## 🧠 About Me
 
-</div>
+- 🎓 MSc Computer Engineering @ Universidade de Coimbra  
+- 👨‍💻 Backend enthusiast, bug whisperer, and CLI loyalist  
+- 🎭 I write clean code... until deadlines hit  
+- 🛑 Experienced in building systems that don’t explode (most of the time)
+
+---
+
+## 🧰 Tools I Break Regularly
+
+`Python` | `C` | `Java` | `LaTeX` | `Git` | `VS Code` | `Linux` | `Makefiles` | `Sarcasm`
+
+---
+
+## 🚧 Projects in Public View (the good ones)
+
+| Project              | Description                                      | Status       |
+|----------------------|--------------------------------------------------|--------------|
+| `QCS_Assignment1`    | Cruise Control + Camera Detection with flair     | ✅ Working... miraculously |
+| `LatexResume`        | My CV, more beautiful than my code               | ✅ Impresses humans |
+| `404_project`        | I swear this was working yesterday               | ⚠️ Under evaluation |
+
+---
+
+## 🤡 Fun Facts
+
+- My `main()` has no purpose... just like this section
+- I use `print("debug")` instead of a debugger — elite stuff
+- My favorite design pattern is `"it works, don’t touch it"`
+- My `README.md` is better than some of my actual projects
+
+---
+
+## 🕶️ Stats That Don't Lie *(but might exaggerate)*
+
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlaom22&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlaom22&layout=compact&theme=radical)
+
+---
+
+## 🛸 Reach Out (I won’t ghost you... probably)
+
+- 📫 uc2020230124@student.uc.pt
+- 🧠 Telepathy module in progress
+- 🐍 Found on Stack Overflow asking why my own code broke
+
+---
+
+> “Code never lies. Comments sometimes do. Deadlines always do.”  
+> – Me, under pressure.
+
+---
